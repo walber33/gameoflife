@@ -1,4 +1,4 @@
-# Conway’s Game of Life in Node CLI #
+# Conway’s Game of Life in CLI with Node #
 This is just a fun exercise i did
 
 
