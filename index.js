@@ -64,6 +64,7 @@ const gameOflife = () => {
       })
       
       process.stdout.write('\n');
+      alert('Finalizou');
     })
     grid = JSON.parse(JSON.stringify(gridTemp));
   }, 500);
